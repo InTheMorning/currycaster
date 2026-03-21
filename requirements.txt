@@ -1,0 +1,4 @@
+PyQt6>=6.0.0
+PyGObject>=3.40.0
+mido>=1.2.0
+pulsectl>=21.0.0
